@@ -1,0 +1,16 @@
+﻿h5{
+
+}
+.social-link img {
+    align-content: center;
+    width: 40px;
+}
+.button-edit a{
+    color: blue;
+}
+.button-delete a {
+    color: red;
+}
+.button-detailst a {
+    color: green;
+}
